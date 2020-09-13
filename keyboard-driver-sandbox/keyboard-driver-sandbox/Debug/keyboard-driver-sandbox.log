@@ -1,0 +1,3 @@
+﻿  keyboard-driver-sandbox.cpp
+C:\Users\ojohn\source\repos\keyboard-driver-sandbox\keyboard-driver-sandbox\keyboard-driver-sandbox.cpp(66,8): warning C4101:  'ip': unreferenced local variable
+  keyboard-driver-sandbox.vcxproj -> C:\Users\ojohn\source\repos\keyboard-driver-sandbox\Debug\keyboard-driver-sandbox.exe
